@@ -1,7 +1,7 @@
 # Hello, I'm @joshfernandez! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o85xpJDoAcPrVIeOs/giphy.gif" width=480px height=480px />
+  <img src="https://media.giphy.com/media/3o85xpJDoAcPrVIeOs/giphy.gif" width=320px height=320px />
 </p>
 
 ---
