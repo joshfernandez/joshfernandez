@@ -1,4 +1,9 @@
 # Hello, I'm @joshfernandez! 👋
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o85xpJDoAcPrVIeOs/giphy.gif" width=480px height=480px />
+</p>
+
 ---
 
 ## Who is Josh and what does he do?
