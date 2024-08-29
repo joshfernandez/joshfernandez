@@ -40,13 +40,21 @@ I'm proud of the projects I've developed, which showcase my ability to blend cre
 
 Here's a glimpse of my contributions and what I've been working on lately:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joshfernandez&theme=radical&hide_current_streak=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=joshfernandez&theme=radical&hide_current_streak=true" alt="Josh's GitHub Stats"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshfernandez&layout=donut-vertical&theme=radical&langs_count=20&hide=CMake,M4,C,Stylus,Objective-C,Hack)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshfernandez&layout=donut-vertical&theme=radical&langs_count=20&hide=CMake,M4,C,Stylus,Objective-C,Hack" alt="Josh's Most Used Languages"/>
+</p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=joshfernandez&theme=onestar&column=4&rank=SSS,SS,S,AAA,AA,A,B)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joshfernandez&theme=onestar&column=4&margin-w=16&rank=SSS,SS,S,AAA,AA,A,B" alt="Josh's Activity Trophies" />
+</p>
 
-![Codewars](https://www.codewars.com/users/joshfernandez/badges/large)
+<p align="center">
+  <img src="https://www.codewars.com/users/joshfernandez/badges/large" alt="Josh's Codewars Badge"/>
+</p>
 
 I'm currently ranked **5 kyu** on [Codewars](https://www.codewars.com), a platform where developers enhance their coding skills by solving challenges (called "kata"). My 5 kyu rank reflects an **intermediate level of problem-solving ability**, where I tackle complex algorithms, data structures, and real-world programming problems. This experience helps me write more efficient, reliable, and maintainable code in my projects.
 
@@ -54,8 +62,17 @@ I'm currently ranked **5 kyu** on [Codewars](https://www.codewars.com), a platfo
 
 I’m always open to new opportunities, collaborations, and discussions. Feel free to reach out to me through any of the platforms below:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-fernandez)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshf.dev@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/josh-fernandez">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:joshf.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo"/>
+  </a>
+</p>
 
 I'm always on the lookout for web development opportunities and related areas. If you think I'd be a great fit for your team or company, I'd love to hear from you. I'm also open to smaller projects and giving back to the tech community through mentoring and teaching. Let's chat!
 
@@ -63,7 +80,7 @@ I'm always on the lookout for web development opportunities and related areas. I
 
 When I'm not deep in code, you'll often find me exploring another passion of mine—music. I'm a songwriter who loves translating thoughts into melodies. I enjoy writing and recording my original songs and sharing them with friends and the wider community.
 
-I also believe in giving back to the tech community, whether it's mentoring at hackathons, teaching coding to kids, or volunteering at tech socials. I find it fulfilling to inspire the next generation of developers to make the world a better place!
+I also believe in giving back to the tech community, whether it's mentoring at hackathons, teaching coding to kids, or volunteering at tech socials. I find it fulfilling to inspire the next generation of developers in making the world a better place!
 
 ---
 
