@@ -18,14 +18,14 @@
 
 Throughout my career, I've worked with a variety of tools and technologies that enable me to bring ideas to life:
 
+- **Web Technologies:** HTML5, CSS3, SASS, TailwindCSS, HTTP, JSON, Document Object Model (DOM) APIs, REST APIs
+- **Frameworks and Libraries:** React, Express.js, Axios, Remix.run
 - **Languages:** JavaScript (ES6+), TypeScript, Python, PHP
-- **Web Technologies:** HTML5, CSS3, SASS, TailwindCSS
-- **Frameworks & Libraries:** React, Axios, Express.js, Remix.run
-- **Backend & Database:** Node.js, PocketBase, MySQL
-- **Tools:** Git, Vite, Heroku, Cloudflare Pages
-- **Editors & IDEs:** Microsoft Visual Studio, Atom
-- **Project Management & Collaboration:** JIRA, Confluence, Notion, Slack
-- **Design & Prototyping:** Figma
+- **Design and Prototyping:** Figma, Canva, Webflow, Squarespace, Responsive Design
+- **Back-end and Database:** Node.js, MySQL, PocketBase
+- **Developer Tools:** Git, GitHub, Heroku, Vite, Postman, Cloudflare Pages, Browser DevTools
+- **Editors and IDEs:** Visual Studio Code (VS Code), Atom
+- **Project Management and Collaboration:** JIRA, Slack, Confluence, Notion, Agile Development
 
 
 ## 🚀 What I've Built
