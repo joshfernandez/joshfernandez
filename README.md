@@ -36,9 +36,9 @@ I'm proud of the projects I've developed, which showcase my ability to blend cre
 - [**ComposeCanvas**](https://github.com/joshfernandez/josh-fernandez-composecanvas): A songwriting web app designed for musicians and songwriters in helping turn their ideas into songs. Built with React, SASS, Node, Express, and OpenAI.
 - [**QuizMe**](https://github.com/joshfernandez/iat359_quizme): An educational mobile application for students to study for quizzes and tests using flashcards and games. Built in Android Studio.
 
-## 📊 My GitHub Journey
+## 🚀 My GitHub Journey
 
-Here's a glimpse of my contributions and what I've been working on lately:
+<!-- Here's a glimpse of my contributions and what I've been working on lately: -->
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=joshfernandez&theme=radical&hide_current_streak=true" alt="Josh's GitHub Stats"/>
@@ -52,11 +52,22 @@ Here's a glimpse of my contributions and what I've been working on lately:
   <img src="https://github-profile-trophy.vercel.app/?username=joshfernandez&theme=onestar&column=4&margin-w=16&rank=SSS,SS,S,AAA,AA,A,B" alt="Josh's Activity Trophies" />
 </p> -->
 
+### A Decade of Growth and Collaboration
+
+I have been coding on GitHub for nearly ten years, engaging in a variety of learning, teaching, and development endeavours. My activity showcases consistent hands-on experience through personal projects, coursework, and collaborations, rather than solely focusing on public open-source contributions.
+
+- 📊 Approximately 1,300 commits across both long-term and iterative projects, demonstrating steady growth and hands-on experience over the years.
+- 🗂️ Contributions to 14 active codebases and a total of 24 repositories, which include a blend of polished public projects and private, in-progress work.
+- 📝 A strong emphasis on creating code and documentation that is both maintainable and readable.
+
+
+### My Journey To Solving Coding Challenges
+
 <p align="center">
   <img src="https://www.codewars.com/users/joshfernandez/badges/large" alt="Josh's Codewars Badge"/>
 </p>
 
-I'm currently ranked **5 kyu** on [**Codewars**](https://www.codewars.com), a platform where developers enhance their coding skills by solving challenges (called "kata"). My 5 kyu rank reflects an **intermediate level of problem-solving ability**, where I tackle complex algorithms, data structures, and real-world programming problems. This experience helps me write more efficient, reliable, and maintainable code in my projects.
+I'm also currently ranked **5 kyu** on [**Codewars**](https://www.codewars.com), a platform where developers enhance their coding skills by solving challenges (called "kata"). My 5 kyu rank reflects an **intermediate level of problem-solving ability**, where I tackle complex algorithms, data structures, and real-world programming problems. This experience helps me write more efficient, reliable, and maintainable code in my projects.
 
 ## 🌐 Let's Connect!
 
