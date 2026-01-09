@@ -32,7 +32,7 @@ Throughout my career, I've worked with a variety of tools and technologies that 
 
 I'm proud of the projects I've developed, which showcase my ability to blend creativity with functionality:
 
-- [**1nterview**](https://1nterview.com/): A video recording web platform for job seekers and recruiters, where I'm currently a startup co-founder and full-stack developer. Built with React, Remix.run, TailwindCSS, Node, Express, PocketBase, and Cloudflare Pages.
+- [**1nterview**](https://1nterview.com/): A video recording web platform for job seekers and recruiters, where I've contributed as a startup co-founder and full-stack developer. Built with React, Remix.run, TailwindCSS, Node, Express, PocketBase, and Cloudflare Pages.
 - [**ComposeCanvas**](https://github.com/joshfernandez/josh-fernandez-composecanvas): A songwriting web app designed for musicians and songwriters in helping turn their ideas into songs. Built with React, SASS, Node, Express, and OpenAI.
 - [**QuizMe**](https://github.com/joshfernandez/iat359_quizme): An educational mobile application for students to study for quizzes and tests using flashcards and games. Built in Android Studio.
 
@@ -56,7 +56,7 @@ Here's a glimpse of my contributions and what I've been working on lately:
   <img src="https://www.codewars.com/users/joshfernandez/badges/large" alt="Josh's Codewars Badge"/>
 </p>
 
-I'm currently ranked **5 kyu** on [Codewars](https://www.codewars.com), a platform where developers enhance their coding skills by solving challenges (called "kata"). My 5 kyu rank reflects an **intermediate level of problem-solving ability**, where I tackle complex algorithms, data structures, and real-world programming problems. This experience helps me write more efficient, reliable, and maintainable code in my projects.
+I'm currently ranked **5 kyu** on [**Codewars**](https://www.codewars.com), a platform where developers enhance their coding skills by solving challenges (called "kata"). My 5 kyu rank reflects an **intermediate level of problem-solving ability**, where I tackle complex algorithms, data structures, and real-world programming problems. This experience helps me write more efficient, reliable, and maintainable code in my projects.
 
 ## 🌐 Let's Connect!
 
