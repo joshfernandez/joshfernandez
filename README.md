@@ -1,7 +1,7 @@
 # Hi, I'm Josh (@joshfernandez)! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o85xpJDoAcPrVIeOs/giphy.gif" width=320px height=320px />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJrbjB2aTdjdnBlaXJydGE0ZnJmdXZlbDJ2OHc3b2R1cGhjYTllcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4jKn7itdV2Tvjzj6Y/giphy.gif" width=80% />
 </p>
 
 ## Welcome to my GitHub profile!
