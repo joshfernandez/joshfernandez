@@ -60,21 +60,21 @@ I'm currently ranked **5 kyu** on [**Codewars**](https://www.codewars.com), a pl
 
 ## 🌐 Let's Connect!
 
-I’m always open to new opportunities, collaborations, and discussions. Feel free to reach out to me through any of the platforms below:
+I’m always open to new opportunities, collaborations, and discussions! Feel free to reach out to me through any of the platforms below:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josh-fernandez">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height=40rem alt="LinkedIn Logo"/>
   </a>
-</p>
 
-<p align="center">
   <a href="mailto:joshf.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=40rem alt="Gmail Logo"/>
   </a>
 </p>
 
-I'm always on the lookout for web development opportunities and related areas. If you think I'd be a great fit for your team or company, I'd love to hear from you. I'm also open to smaller projects and giving back to the tech community through mentoring and teaching. Let's chat!
+I'm always on the lookout for web development opportunities and related areas. If you think I'd be a great fit for your team or company, I'd love to hear from you!
+
+I'm also open to smaller projects and giving back to the tech community through mentoring and teaching. Let's meet for coffee to chat, get help with a website, or talk about possible collaborations.
 
 ## 🎸 Beyond the Code
 
