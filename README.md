@@ -78,9 +78,9 @@ I'm also open to smaller projects and giving back to the tech community through 
 
 ## 🎸 Beyond the Code
 
-When I'm not deep in code, you'll often find me exploring another passion of mine—music. I'm a songwriter who loves translating thoughts into melodies. I enjoy writing and recording my original songs and sharing them with friends and the wider community.
+When I'm not deep in code, you'll often find me exploring another passion of mine—music. I love writing songs and translating thoughts into melodies. I enjoy writing and recording my original songs and sharing them with friends and the wider community.
 
-I also believe in giving back to the tech community, whether it's mentoring at hackathons, teaching coding to kids, or volunteering at tech socials. I find it fulfilling to inspire the next generation of developers in making the world a better place!
+I also believe in giving back to the tech community, whether it's mentoring at hackathons, teaching coding to kids, or volunteering at tech socials. I find that inspiring the next generation of developers is fulfilling!
 
 ---
 
