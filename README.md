@@ -6,13 +6,13 @@
 
 ## Welcome to my GitHub profile!
 
-🌱 I'm a **Full-Stack Web Developer** and I enjoy building websites, apps, and technical projects to help other people. I am a creative thinker, and my journey in web development has been driven by my passion for learning, seeing small changes make a big impact, and the sense of community that comes with working on projects with others.
+🌱 I'm a **Full-Stack Web Developer**, and I'm passionate about building websites, applications, and technical projects that make a difference. As a creative thinker, my web development journey is driven by a love for learning, the impact of small changes, and the importance of community and collaboration.
 
-🎒 I am a recent graduate from [**BrainStation Vancouver**](https://brainstation.io/vancouver), where I completed their [web development bootcamp](https://brainstation.io/online/software-engineering-bootcamp)! I also graduated from Simon Fraser University in BC, Canada where I studied [**Software Systems**](https://www.sfu.ca/computing/prospective-students/undergraduate-students/programs/degree-programs/softwaresystems.html) (a branch of Computing Science) and [**Interactive Arts and Technology**](https://www.sfu.ca/siat/programs/undergraduate/prospective-students.html).
+🎒 I'm a proud graduate of Simon Fraser University (SFU) in BC, Canada, where I studied [**Software Systems**](https://www.sfu.ca/computing/prospective-students/undergraduate-students/programs/degree-programs/softwaresystems.html) (a branch of Computing Science) and [**Interactive Arts and Technology**](https://www.sfu.ca/siat/programs/undergraduate/prospective-students.html)! I'm also proud to have graduated from [**BrainStation Vancouver**](https://brainstation.io/vancouver), where I completed their [**web development bootcamp**](https://brainstation.io/online/software-engineering-bootcamp) in early 2024.
 
-👀 I am early in my career in the tech industry and have been interested in (and have studied) web development, software development, technical writing, and developer relations.
+👀 With around 7 years of professional experience in the tech industry—3 of which have been dedicated to web and software development—I have contributed to the field in various capacities, including web development, technical writing, teaching, program facilitation, and developer relations.
 
-💡 Nevertheless, these experiences have instilled in me a lifelong passion for learning, innovation, and empathy-driven community building. Witnessing coding projects succeed and benefit the end-user has been what has kept me motivated.
+💡 This diverse background continues to fuel my passion for creating meaningful, human-centered digital experiences. Witnessing coding projects come to life and benefit the end-user has been what has kept me motivated.
 
 ## 🛠️ My Tech Toolbox
 
