@@ -40,7 +40,7 @@ I'm proud of the projects I've developed, which showcase my ability to blend cre
 
 Here's a glimpse of my contributions and what I've been working on lately:
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=joshfernandez&theme=radical&hide_current_streak=true" alt="Josh's GitHub Stats"/>
 </p>
 
@@ -50,7 +50,7 @@ Here's a glimpse of my contributions and what I've been working on lately:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joshfernandez&theme=onestar&column=4&margin-w=16&rank=SSS,SS,S,AAA,AA,A,B" alt="Josh's Activity Trophies" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://www.codewars.com/users/joshfernandez/badges/large" alt="Josh's Codewars Badge"/>
